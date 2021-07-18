@@ -1,2 +1,2 @@
-# visual-studio-offline-installation-
-a simple program make an offline installation of visual studio 
+# visual-studio-offline-installation
+simple program who make an 'offline installation copy' of visual studio during download
