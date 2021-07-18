@@ -1,3 +1,4 @@
+import time
 
 try:
     import httplib
@@ -17,4 +18,7 @@ def have_internet():
         return False
 
 if not have_internet() : exit()
-print("end ...")
+else :
+    x = input("test end press anything to exit ...")
+    exit()
+
