@@ -1,0 +1,10 @@
+C:\Users\dev\Desktop\visual-studio-offline-installation\bin\Debug\offline installation.exe.config
+C:\Users\dev\Desktop\visual-studio-offline-installation\bin\Debug\offline installation.exe
+C:\Users\dev\Desktop\visual-studio-offline-installation\bin\Debug\offline installation.pdb
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline installation.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline_installation.Form1.resources
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline_installation.Properties.Resources.resources
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline installation.csproj.GenerateResource.cache
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline installation.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline installation.exe
+C:\Users\dev\Desktop\visual-studio-offline-installation\obj\Debug\offline installation.pdb
